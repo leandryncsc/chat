@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "798389568798",
+    "project_id": "chat-898bd",
+    "storage_bucket": "chat-898bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798389568798:android:83a532f68c7ee8e3e0750f",
+        "android_client_info": {
+          "package_name": "com.bezerra.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798389568798-sd2ak7font7c4m2u7dt0jtahr0j66tpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bezerra.chat",
+            "certificate_hash": "aaa619e84a1d9d5f24fd1c8095edc707461ad8e0"
+          }
+        },
+        {
+          "client_id": "798389568798-59uo8t6fi24lp1p0tjjdqg858tfrm8ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVGeLlzWW-vT61zxuwppCBwsMNNy2eaF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798389568798-59uo8t6fi24lp1p0tjjdqg858tfrm8ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
